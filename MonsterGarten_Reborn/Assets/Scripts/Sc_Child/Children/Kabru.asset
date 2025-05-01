@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d18a84bca2f1ee4ca359dcd804cc159, type: 3}
+  m_Name: Kabru
+  m_EditorClassIdentifier: 
+  CharacterName: Kabru
+  spr_VNCharacter: {fileID: 4846049885937486799, guid: e57425fdfd6753b4c82c4c45f8671bba, type: 3}
+  spr_DialogBox: {fileID: 21300000, guid: 98ced8b65ed44ef41b2e4cafd3b03cae, type: 3}
+  Joie: {fileID: 1890153390440568685, guid: e57425fdfd6753b4c82c4c45f8671bba, type: 3}
+  Colere: {fileID: 5049690042773752459, guid: e57425fdfd6753b4c82c4c45f8671bba, type: 3}
+  Ennuie: {fileID: -747238582048892480, guid: e57425fdfd6753b4c82c4c45f8671bba, type: 3}
+  Tristesse: {fileID: -60674904890840321, guid: e57425fdfd6753b4c82c4c45f8671bba, type: 3}
+  Surprise: {fileID: 4529255093658048932, guid: e57425fdfd6753b4c82c4c45f8671bba, type: 3}

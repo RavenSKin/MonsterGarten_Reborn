@@ -41,3 +41,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: DialogComponent
+    uniqueID: 250528653
+    locked: 0

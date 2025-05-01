@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d18a84bca2f1ee4ca359dcd804cc159, type: 3}
+  m_Name: Sharran
+  m_EditorClassIdentifier: 
+  CharacterName: Sharran
+  spr_VNCharacter: {fileID: 4865607161195149446, guid: 4c6ba1befe1e76f4794c79a70685cbb2, type: 3}
+  spr_DialogBox: {fileID: 21300000, guid: fe490ff7871d1494a8e22e741be50bab, type: 3}
+  Joie: {fileID: -5106792191022132679, guid: 4c6ba1befe1e76f4794c79a70685cbb2, type: 3}
+  Colere: {fileID: -4535547401563440827, guid: 4c6ba1befe1e76f4794c79a70685cbb2, type: 3}
+  Ennuie: {fileID: -3811036580255624691, guid: 4c6ba1befe1e76f4794c79a70685cbb2, type: 3}
+  Tristesse: {fileID: 4463410736281130891, guid: 4c6ba1befe1e76f4794c79a70685cbb2, type: 3}
+  Surprise: {fileID: 6140347597597923788, guid: 4c6ba1befe1e76f4794c79a70685cbb2, type: 3}

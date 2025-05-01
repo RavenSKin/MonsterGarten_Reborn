@@ -1,0 +1,748 @@
+fileFormatVersion: 2
+guid: 6ecfc719f5e07854c916e730b00fbcad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7070291250274243141
+    second: proto_carnet_0
+  - first:
+      213: 85175838405845426
+    second: proto_carnet_1
+  - first:
+      213: 3494703556616495110
+    second: proto_carnet_2
+  - first:
+      213: 6858342381800685921
+    second: proto_carnet_3
+  - first:
+      213: 1454525729389076910
+    second: proto_carnet_4
+  - first:
+      213: 3604739111422410717
+    second: proto_carnet_5
+  - first:
+      213: 4589861666672063971
+    second: proto_carnet_6
+  - first:
+      213: 2247809437514949922
+    second: proto_carnet_7
+  - first:
+      213: 8290622861449678398
+    second: proto_carnet_8
+  - first:
+      213: -4380156702338775177
+    second: proto_carnet_9
+  - first:
+      213: 127916318072791380
+    second: proto_carnet_10
+  - first:
+      213: 1179590679969924712
+    second: proto_carnet_11
+  - first:
+      213: 5088136785488709641
+    second: proto_carnet_12
+  - first:
+      213: -6965744445294672329
+    second: proto_carnet_13
+  - first:
+      213: 6415453258533095576
+    second: proto_carnet_14
+  - first:
+      213: 1121152715574552467
+    second: proto_carnet_15
+  - first:
+      213: 7654637455168759581
+    second: proto_carnet_16
+  - first:
+      213: -4715825131513099906
+    second: proto_carnet_17
+  - first:
+      213: 1058072219571149410
+    second: proto_carnet_18
+  - first:
+      213: 3282952898856085683
+    second: proto_carnet_19
+  - first:
+      213: 7800808496580020796
+    second: proto_carnet_20
+  - first:
+      213: -5089825803314455893
+    second: proto_carnet_21
+  - first:
+      213: -6744158518365387784
+    second: proto_carnet_22
+  - first:
+      213: 1196843401705359896
+    second: proto_carnet_23
+  - first:
+      213: 4412505105628438737
+    second: proto_carnet_24
+  - first:
+      213: 4648534815065406156
+    second: proto_carnet_25
+  - first:
+      213: -5573108209138651035
+    second: proto_carnet_26
+  - first:
+      213: 5821807620225093096
+    second: proto_carnet_27
+  - first:
+      213: 4373267535910311994
+    second: proto_carnet_28
+  - first:
+      213: 1434214772241172463
+    second: proto_carnet_29
+  - first:
+      213: -6427630309248963181
+    second: proto_carnet_30
+  - first:
+      213: 256989827480536603
+    second: proto_carnet_31
+  - first:
+      213: -9149593722584863104
+    second: proto_carnet_32
+  - first:
+      213: -3845403112269243534
+    second: proto_carnet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: proto_carnet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1800
+        width: 250
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542162f9e68be1260800000000000000
+      internalID: 7070291250274243141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_1
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 446
+        width: 1115
+        height: 1514
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b160a749fa9e2100800000000000000
+      internalID: 85175838405845426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_2
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1647
+        width: 237
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600ab677e5eaf7030800000000000000
+      internalID: 3494703556616495110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1667
+        width: 250
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1618c372f0abd2f50800000000000000
+      internalID: 6858342381800685921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_4
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1464
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1e6e8c1738f2410800000000000000
+      internalID: 1454525729389076910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1523
+        width: 250
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf3a448f1b960230800000000000000
+      internalID: 3604739111422410717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_6
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1407
+        width: 179
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5bb222ed672bf30800000000000000
+      internalID: 4589861666672063971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_7
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1409
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22569d526c2d13f10800000000000000
+      internalID: 2247809437514949922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1390
+        width: 250
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ec07f11953e0370800000000000000
+      internalID: 8290622861449678398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1224
+        width: 254
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7770d80bfae8633c0800000000000000
+      internalID: -4380156702338775177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_10
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 1069
+        width: 261
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45164bba63376c100800000000000000
+      internalID: 127916318072791380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1091
+        width: 254
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86608f3497fbe5010800000000000000
+      internalID: 1179590679969924712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_12
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 748
+        width: 125
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90807a3c271bc9640800000000000000
+      internalID: 5088136785488709641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_13
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 737
+        width: 124
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7368f064554b45f90800000000000000
+      internalID: -6965744445294672329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_14
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 736
+        width: 124
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898ccf38fb4480950800000000000000
+      internalID: 6415453258533095576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 947
+        width: 254
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39729c664722f8f00800000000000000
+      internalID: 1121152715574552467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_16
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 739
+        width: 260
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17ebbf953cba3a60800000000000000
+      internalID: 7654637455168759581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 814
+        width: 254
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e794d4547060e8eb0800000000000000
+      internalID: -4715825131513099906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_18
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 413
+        width: 237
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a5f3ae3170fae00800000000000000
+      internalID: 1058072219571149410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_21
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 75
+        width: 247
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa13d0266e4d59b0800000000000000
+      internalID: -5089825803314455893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_22
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 75
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f308e34f8fe762a0800000000000000
+      internalID: -6744158518365387784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_23
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 80
+        width: 247
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a0b629bba0c9010800000000000000
+      internalID: 1196843401705359896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: proto_carnet_33
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 118
+        width: 168
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b92034e3262aac0800000000000000
+      internalID: -3845403112269243534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e86e730e6f10db14b8455f7b7bd77e00
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      proto_carnet_0: 7070291250274243141
+      proto_carnet_1: 85175838405845426
+      proto_carnet_10: 127916318072791380
+      proto_carnet_11: 1179590679969924712
+      proto_carnet_12: 5088136785488709641
+      proto_carnet_13: -6965744445294672329
+      proto_carnet_14: 6415453258533095576
+      proto_carnet_15: 1121152715574552467
+      proto_carnet_16: 7654637455168759581
+      proto_carnet_17: -4715825131513099906
+      proto_carnet_18: 1058072219571149410
+      proto_carnet_2: 3494703556616495110
+      proto_carnet_21: -5089825803314455893
+      proto_carnet_22: -6744158518365387784
+      proto_carnet_23: 1196843401705359896
+      proto_carnet_3: 6858342381800685921
+      proto_carnet_33: -3845403112269243534
+      proto_carnet_4: 1454525729389076910
+      proto_carnet_5: 3604739111422410717
+      proto_carnet_6: 4589861666672063971
+      proto_carnet_7: 2247809437514949922
+      proto_carnet_8: 8290622861449678398
+      proto_carnet_9: -4380156702338775177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

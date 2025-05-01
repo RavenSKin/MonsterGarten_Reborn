@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d18a84bca2f1ee4ca359dcd804cc159, type: 3}
+  m_Name: Jeremiah
+  m_EditorClassIdentifier: 
+  CharacterName: Jeremiah
+  spr_VNCharacter: {fileID: 8888491004102212332, guid: 7134e138fdb11c94abc0c107e358caa4, type: 3}
+  spr_DialogBox: {fileID: 21300000, guid: 022f49b2df76a2945918e0943b1f2058, type: 3}
+  Joie: {fileID: 5187088170834879319, guid: 7134e138fdb11c94abc0c107e358caa4, type: 3}
+  Colere: {fileID: 481780033650220159, guid: 7134e138fdb11c94abc0c107e358caa4, type: 3}
+  Ennuie: {fileID: -8079787362499813663, guid: 7134e138fdb11c94abc0c107e358caa4, type: 3}
+  Tristesse: {fileID: -6150495777548658815, guid: 7134e138fdb11c94abc0c107e358caa4, type: 3}
+  Surprise: {fileID: 2056302621858467795, guid: 7134e138fdb11c94abc0c107e358caa4, type: 3}

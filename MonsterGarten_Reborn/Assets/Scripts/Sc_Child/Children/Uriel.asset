@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d18a84bca2f1ee4ca359dcd804cc159, type: 3}
+  m_Name: Uriel
+  m_EditorClassIdentifier: 
+  CharacterName: Uriel
+  spr_VNCharacter: {fileID: 2529827162855272497, guid: 0a2d95afa65397a4eb1879f4933e7ced, type: 3}
+  spr_DialogBox: {fileID: 21300000, guid: 7487df576c7552c4bbebc7e82b7fa35a, type: 3}
+  Joie: {fileID: -524170400715107987, guid: 0a2d95afa65397a4eb1879f4933e7ced, type: 3}
+  Colere: {fileID: 3139191240490213461, guid: 0a2d95afa65397a4eb1879f4933e7ced, type: 3}
+  Ennuie: {fileID: 1294351067889923976, guid: 0a2d95afa65397a4eb1879f4933e7ced, type: 3}
+  Tristesse: {fileID: -1656698156858267873, guid: 0a2d95afa65397a4eb1879f4933e7ced, type: 3}
+  Surprise: {fileID: 7590742869959744780, guid: 0a2d95afa65397a4eb1879f4933e7ced, type: 3}
